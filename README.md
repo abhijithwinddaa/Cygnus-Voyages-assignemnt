@@ -2,6 +2,10 @@
 
 A modern, responsive job board application built with React and Vite. This application allows users to search, filter, and browse job listings efficiently.
 
+## Live Demo
+
+🔗 **[View Live Application](https://regal-gingersnap-1d3c91.netlify.app/)**
+
 ## Features
 
 - **Display Job Cards** - Shows job title, company, location, and type (Internship/Full-time)
@@ -32,8 +36,8 @@ A modern, responsive job board application built with React and Vite. This appli
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/job-listing-app.git
-cd job-listing-app
+git clone https://github.com/abhijithwinddaa/Cygnus-Voyages-assignemnt.git
+cd Cygnus-Voyages-assignemnt
 ```
 
 2. Install dependencies:
