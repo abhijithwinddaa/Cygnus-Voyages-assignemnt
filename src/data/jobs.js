@@ -1,0 +1,88 @@
+const jobs = [
+  {
+    id: 1,
+    title: "Frontend Intern",
+    company: "Acme Corp",
+    location: "Remote",
+    type: "Internship",
+  },
+  {
+    id: 2,
+    title: "Web Developer",
+    company: "Tech Solutions",
+    location: "On-site",
+    type: "Full-time",
+  },
+  {
+    id: 3,
+    title: "React Developer",
+    company: "InnovateTech",
+    location: "Remote",
+    type: "Full-time",
+  },
+  {
+    id: 4,
+    title: "UI/UX Design Intern",
+    company: "DesignHub",
+    location: "On-site",
+    type: "Internship",
+  },
+  {
+    id: 5,
+    title: "Backend Engineer",
+    company: "CloudSystems",
+    location: "Remote",
+    type: "Full-time",
+  },
+  {
+    id: 6,
+    title: "Full Stack Developer",
+    company: "StartupXYZ",
+    location: "On-site",
+    type: "Full-time",
+  },
+  {
+    id: 7,
+    title: "JavaScript Intern",
+    company: "CodeCraft",
+    location: "Remote",
+    type: "Internship",
+  },
+  {
+    id: 8,
+    title: "Software Engineer",
+    company: "MegaTech",
+    location: "On-site",
+    type: "Full-time",
+  },
+  {
+    id: 9,
+    title: "Data Science Intern",
+    company: "DataDriven",
+    location: "Remote",
+    type: "Internship",
+  },
+  {
+    id: 10,
+    title: "Mobile App Developer",
+    company: "AppWorks",
+    location: "On-site",
+    type: "Full-time",
+  },
+  {
+    id: 11,
+    title: "DevOps Intern",
+    company: "CloudNine",
+    location: "Remote",
+    type: "Internship",
+  },
+  {
+    id: 12,
+    title: "Python Developer",
+    company: "PyTech",
+    location: "On-site",
+    type: "Full-time",
+  },
+];
+
+export default jobs;
